@@ -1,0 +1,2 @@
+# renpystorydetail
+test for renpy
